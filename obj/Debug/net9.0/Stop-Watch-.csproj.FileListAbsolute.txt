@@ -1,0 +1,14 @@
+C:\Users\User\desktop\stop watch\Stop-Watch-\bin\Debug\net9.0\Stop-Watch-.exe
+C:\Users\User\desktop\stop watch\Stop-Watch-\bin\Debug\net9.0\Stop-Watch-.deps.json
+C:\Users\User\desktop\stop watch\Stop-Watch-\bin\Debug\net9.0\Stop-Watch-.runtimeconfig.json
+C:\Users\User\desktop\stop watch\Stop-Watch-\bin\Debug\net9.0\Stop-Watch-.dll
+C:\Users\User\desktop\stop watch\Stop-Watch-\bin\Debug\net9.0\Stop-Watch-.pdb
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\Stop-Watch-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\Stop-Watch-.AssemblyInfoInputs.cache
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\Stop-Watch-.AssemblyInfo.cs
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\Stop-Watch-.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\Stop-Watch-.dll
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\refint\Stop-Watch-.dll
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\Stop-Watch-.pdb
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\Stop-Watch-.genruntimeconfig.cache
+C:\Users\User\desktop\stop watch\Stop-Watch-\obj\Debug\net9.0\ref\Stop-Watch-.dll
