@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj": {}
+    "C:\\Users\\User\\Desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj": {
+    "C:\\Users\\User\\Desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj",
         "projectName": "Stop-Watch-",
-        "projectPath": "C:\\Users\\User\\desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\stop watch\\Stop-Watch-\\Stop-Watch-.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\desktop\\stop watch\\Stop-Watch-\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\stop watch\\Stop-Watch-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
