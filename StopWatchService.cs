@@ -1,23 +1,31 @@
-
 public class StopWatchService
 {
-    public delegate void StopWatchServiceEvent(bool IsRunning, string buttonType);
-    public event StopWatchServiceEvent OnStart;
-    public event StopWatchServiceEvent OnStopped;
-    public event StopWatchServiceEvent OnReset;
+    // Delegate declaration: Defines the signature for methods to be invoked by events
+    public delegate void StopWatchServiceEvent();
 
-    public void StartWatch(bool IsRunning, string buttonType)
+    // Event declarations: These events are triggered for start, stop, and reset actions
+    public event StopWatchServiceEvent? OnStart;  // Event to start the stopwatch
+    public event StopWatchServiceEvent? OnStopped;  // Event to stop the stopwatch
+    public event StopWatchServiceEvent? OnReset;  // Event to reset the stopwatch
+
+    // Method to start the stopwatch by invoking the OnStart event
+    public void StartWatch()
     {
-        OnStart?.Invoke(IsRunning, buttonType);
+        // Invoke OnStart event if there are any subscribers
+        OnStart?.Invoke();  // The "?" ensures it only invokes if the event has subscribers
     }
 
-    public void StoppedWatch(bool IsRunning, string buttonType)
+    // Method to stop the stopwatch by invoking the OnStopped event
+    public void StoppedWatch()
     {
-        OnStopped?.Invoke(IsRunning, buttonType);
+        // Invoke OnStopped event if there are any subscribers
+        OnStopped?.Invoke();  // The "?" ensures it only invokes if the event has subscribers
     }
 
-    public void RestartWatch(bool IsRunning, string buttonType)
+    // Method to reset the stopwatch by invoking the OnReset event
+    public void RestartWatch()
     {
-        OnReset?.Invoke(IsRunning, buttonType);
+        // Invoke OnReset event if there are any subscribers
+        OnReset?.Invoke();  // The "?" ensures it only invokes if the event has subscribers
     }
 }
